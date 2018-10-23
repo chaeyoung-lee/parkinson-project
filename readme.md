@@ -1,6 +1,6 @@
 
 
-# MoT Lab Parkinson disease detector project 2018
+# MoT Lab Parkinson disease detector project
 
 -----------------------------------------------------------------
 ## MoT Parkinson Team Member
@@ -10,7 +10,7 @@
 ##### * Project Leader : Yang Seo Yeon 
 ##### * Deep Learning Model : Lee Chae Young
 ##### * TFlite Conversion : Kang Jae Wook, Kim Hyung Seop
-##### * Android Things / Raspberry Pie : Yang Seo Yeon, Back Yoon Beom
+##### * Android Things / Raspberry Pie : Yang Seo Yeon, Baek Yoon Beom
 ##### * Android App : Shin Jeong Ah, Yang Seo Yeon
 ##### * Server : Shin Jeong Ah, Whang Joong Won , Kim Bo Seop
 
