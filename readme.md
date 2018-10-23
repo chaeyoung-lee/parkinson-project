@@ -21,8 +21,8 @@
 ## Local
 
 ```buildoutcfg
- * model-tflite : Parkinson diseases classification MobileNet & TFlite conversion code
- * android-things-app : Android Things App with Audio Mics, Touch Screen input devices
+ * local/model-tflite : Parkinson diseases classification MobileNet & TFlite conversion code
+ * local/android-things-app : Android Things App with Audio Mics, Touch Screen input devices
 ```
 
 ![image](https://user-images.githubusercontent.com/10994112/47386937-f0a89f80-d748-11e8-87de-2a6631b7a1a6.png)
