@@ -1,6 +1,6 @@
 
 
-#*  MoT Lab Parkinson disease detector project 2018
+# MoT Lab Parkinson disease detector project 2018
 
 -----------------------------------------------------------------
 ## MoT Parkinson Team Member
@@ -27,13 +27,13 @@
 
 ![image](https://user-images.githubusercontent.com/10994112/47386937-f0a89f80-d748-11e8-87de-2a6631b7a1a6.png)
 
-#####1. Converting parkionson disease classification model(Mobilenet) to TFLite
+##### 1. Converting parkionson disease classification model(Mobilenet) to TFLite
 ![asdfsdfsaf](https://user-images.githubusercontent.com/10994112/47388151-695d2b00-d74c-11e8-803a-a0c2c4a68839.JPG)
 
-#####2. Raspberry pie with Android Things OS / Android smartphone App
-#####3. Touch Screen & Audio Mics for input devices in Android Things environment
-#####4. Audio input to Spectrogram preprocessing
-#####5. TFLite connection in Android Things / Android App
+##### 2. Raspberry pie with Android Things OS / Android smartphone App
+##### 3. Touch Screen & Audio Mics for input devices in Android Things environment
+##### 4. Audio input to Spectrogram preprocessing
+##### 5. TFLite connection in Android Things / Android App
 
 ![dasdfsdaffsd](https://user-images.githubusercontent.com/10994112/47388059-2733e980-d74c-11e8-9b59-27b5eca8b344.JPG)
 
