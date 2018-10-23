@@ -8,7 +8,7 @@
 ![dsdfsdfs](https://user-images.githubusercontent.com/10994112/47387546-9c9eba80-d74a-11e8-88fd-6b64de1fbf47.JPG)
  
 ##### * Project Leader : Yang Seo Yeon 
-##### * Model : Lee Chae Young
+##### * Deep Learning Model : Lee Chae Young
 ##### * TFlite Conversion : Kang Jae Wook, Kim Hyung Seop
 ##### * Android Things / Raspberry Pie : Yang Seo Yeon, Back Yoon Beom
 ##### * Android App : Shin Jeong Ah, Yang Seo Yeon
