@@ -5,8 +5,8 @@
 -----------------------------------------------------------------
 ## MoT Parkinson Team Member
 
-![dsdfsdfs](https://user-images.githubusercontent.com/10994112/47387546-9c9eba80-d74a-11e8-88fd-6b64de1fbf47.JPG)
- 
+![fdsdsdsffd](https://user-images.githubusercontent.com/10994112/47389278-5435cb80-d74f-11e8-919f-b11fbcd53575.JPG)
+
 ##### * Project Leader : Yang Seo Yeon 
 ##### * Deep Learning Model : Lee Chae Young
 ##### * TFlite Conversion : Kang Jae Wook, Kim Hyung Seop
