@@ -1,0 +1,1 @@
+{"pbfile_path": "/Users/jwkangmacpro2/SourceCodes/parkinson-mobile/frozen_pb/retrained_graph.pb", "dtype": "<dtype: 'float32'>", "input_node_name": "input", "input_shape": [1, 128, 128, 3], "output_node_name": "final_result", "output_shape": [null, 4]}
