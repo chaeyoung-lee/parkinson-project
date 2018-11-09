@@ -9,9 +9,9 @@
 
 ##### * Project Leader : Yang Seo Yeon 
 ##### * Deep Learning Model : Lee Chae Young
-##### * TFlite Conversion : Kang Jae Wook, Kim Hyung Seop
+##### * TFlite Conversion : Kim Hyung Seop
 ##### * Android Things / Raspberry Pie : Yang Seo Yeon, Baek Yoon Beom
-##### * Android App : Shin Jeong Ah, Yang Seo Yeon
+##### * Android App : Yang Seo Yeon, Shin Jeong Ah
 ##### * Server : Shin Jeong Ah, Whang Joong Won , Kim Bo Seop
 
 
