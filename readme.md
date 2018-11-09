@@ -5,7 +5,7 @@
 -----------------------------------------------------------------
 ## MoT Parkinson Team Member
 
-![fdsdsdsffd](https://user-images.githubusercontent.com/10994112/47389278-5435cb80-d74f-11e8-919f-b11fbcd53575.JPG)
+![pks](https://user-images.githubusercontent.com/10994112/48238690-3b940980-e40f-11e8-87a1-0e7e09ed5f7d.JPG)
 
 ##### * Project Leader : Yang Seo Yeon 
 ##### * Deep Learning Model : Lee Chae Young
